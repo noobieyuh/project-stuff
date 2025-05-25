@@ -3,6 +3,7 @@ public class Main
     public static void main(String[] args)
     {
         int num = 1;
+        // prints from 1 to 100 oh yeah
         while (num <= 100){
             switch (num) {
                 case 1 -> {
